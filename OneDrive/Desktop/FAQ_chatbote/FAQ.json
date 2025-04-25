@@ -1,0 +1,210 @@
+[
+  {
+    "question": "Hello",
+    "answer": "Tell me how can i help you?"
+  },
+  {
+    "question": "Ok",
+    "answer": "Is there anything else I can help you with?"
+  },
+  {
+    "question": "How can I apply for admission?",
+    "answer": "You can apply online through our official admissions portal. Visit the website and follow the instructions."
+  },
+  {
+    "question": "What are the eligibility criteria for admission?",
+    "answer": "Eligibility criteria vary by course. Please check the respective course page for detailed eligibility requirements."
+  },
+  {
+    "question": "When is the admission deadline?",
+    "answer": "The admission deadline is usually by the end of June. Please refer to the admission calendar for the exact date."
+  },
+  {
+    "question": "What is the application fee?",
+    "answer": "The application fee is $50 for domestic students and $100 for international students."
+  },
+  {
+    "question": "How do I check the status of my application?",
+    "answer": "You can check the status of your application by logging into your account on the admissions portal."
+  },
+  {
+    "question": "Can I apply for multiple courses?",
+    "answer": "Yes, you can apply for multiple courses. However, you will need to submit separate application forms for each course."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "answer": "You will need to submit your high school transcript, identity proof, passport-size photo, and proof of residence."
+  },
+  {
+    "question": "How long does the admission process take?",
+    "answer": "The admission process usually takes around 2-3 weeks after submission of the application."
+  },
+  {
+    "question": "Is there any entrance exam for admission?",
+    "answer": "Some programs may require an entrance exam. Please check the specific course page for more details."
+  },
+  {
+    "question": "How do I submit my application form online?",
+    "answer": "Log into the admissions portal, fill out the application form, and submit the required documents."
+  },
+  {
+    "question": "What is the fee structure for undergraduate courses?",
+    "answer": "The undergraduate fee structure ranges from $10,000 to $15,000 per year, depending on the program."
+  },
+  {
+    "question": "Can I pay my fees in installments?",
+    "answer": "Yes, we offer an installment payment option. Please contact the finance office for more details."
+  },
+  {
+    "question": "Is there a late fee for fee payments?",
+    "answer": "Yes, there is a late fee of $50 for payments made after the due date."
+  },
+  {
+    "question": "How can I pay my tuition fees?",
+    "answer": "You can pay your tuition fees online through the student portal, using credit card, debit card, or bank transfer."
+  },
+  {
+    "question": "Where can I find the fee structure for the upcoming semester?",
+    "answer": "You can find the fee structure for the upcoming semester on the university website under the 'Fees' section."
+  },
+  {
+    "question": "Can I apply for a fee concession or scholarship?",
+    "answer": "Yes, scholarships are available based on academic merit and financial need. You can apply for them through the student portal."
+  },
+  {
+    "question": "How do I check my fee payment status?",
+    "answer": "You can check your fee payment status through the 'Finance' section in your student portal."
+  },
+  {
+    "question": "Are there any additional charges besides the tuition fee?",
+    "answer": "Yes, there may be additional charges for books, lab fees, and other services. Please refer to the fee structure for detailed information."
+  },
+  {
+    "question": "What happens if I miss the fee payment deadline?",
+    "answer": "If you miss the deadline, a late fee will be applied, and your access to campus facilities may be restricted until the fee is paid."
+  },
+  {
+    "question": "Is there a refund policy for fees?",
+    "answer": "Yes, we offer a refund policy if you withdraw before the start of the semester. Please refer to the university's refund policy for more details."
+  },
+  {
+    "question": "How do I apply for hostel accommodation?",
+    "answer": "You can apply for hostel accommodation through the student portal after completing your admission process."
+  },
+  {
+    "question": "Is hostel accommodation available for all students?",
+    "answer": "Hostel accommodation is available on a first-come, first-served basis. It is recommended to apply early."
+  },
+  {
+    "question": "What are the hostel charges?",
+    "answer": "The hostel charges range from $500 to $1,000 per semester, depending on the room type."
+  },
+  {
+    "question": "Are there any hostels for female students?",
+    "answer": "Yes, we have separate hostels for female students with all necessary facilities."
+  },
+  {
+    "question": "Can I change my hostel room after allotment?",
+    "answer": "Room changes are allowed only under special circumstances. You will need to request this through the hostel administration."
+  },
+  {
+    "question": "Are meals provided in the hostel?",
+    "answer": "Yes, the hostel provides three meals a day—breakfast, lunch, and dinner."
+  },
+  {
+    "question": "How do I apply for a single-room hostel accommodation?",
+    "answer": "Single-room accommodations are limited. You can apply for a single room during the hostel application process, but it’s based on availability."
+  },
+  {
+    "question": "Can I stay outside the campus during my course?",
+    "answer": "Yes, students are allowed to live off-campus, but they must provide proof of accommodation."
+  },
+  {
+    "question": "How far is the hostel from the main college building?",
+    "answer": "The hostel is located 10 minutes away from the main college building by foot."
+  },
+  {
+    "question": "What are the rules for hostel accommodation?",
+    "answer": "The hostel has rules regarding curfew times, visitor policies, and maintaining cleanliness. Please refer to the hostel handbook for detailed rules."
+  },
+  {
+    "question": "What courses are available in the Computer Science department?",
+    "answer": "The Computer Science department offers courses such as Data Structures, Algorithms, Machine Learning, Artificial Intelligence, and more."
+  },
+  {
+    "question": "Can I change my course after enrollment?",
+    "answer": "Yes, course changes can be made during the first two weeks of the semester. After that, changes will not be allowed."
+  },
+  {
+    "question": "Are online courses available?",
+    "answer": "Yes, we offer a variety of online courses. You can check the course catalog for more details."
+  },
+  {
+    "question": "How do I choose my elective subjects?",
+    "answer": "You can choose your elective subjects by logging into the course registration portal at the beginning of the semester."
+  },
+  {
+    "question": "What is the duration of the undergraduate program?",
+    "answer": "The undergraduate program typically lasts 4 years."
+  },
+  {
+    "question": "Can I apply for a double major program?",
+    "answer": "Yes, a double major program is available, but you will need to meet certain academic requirements."
+  },
+  {
+    "question": "Are there any industry certifications included in the curriculum?",
+    "answer": "Yes, some programs include industry certifications as part of the curriculum, such as AWS or Google Cloud certifications."
+  },
+  {
+    "question": "Can I get a transcript for the courses I’ve completed?",
+    "answer": "Yes, you can request your transcript from the academic office or through the student portal."
+  },
+  {
+    "question": "How can I check my course schedule?",
+    "answer": "You can check your course schedule on the student portal after registration."
+  },
+  {
+    "question": "Are internships part of the curriculum?",
+    "answer": "Yes, internships are mandatory for certain programs. You can find internship opportunities through the Career Services Department."
+  },
+  {
+    "question": "When are the final exams scheduled?",
+    "answer": "Final exams are scheduled at the end of each semester. The exact dates will be posted on the university website."
+  },
+  {
+    "question": "How do I apply for a revaluation of my exam results?",
+    "answer": "You can apply for revaluation through the student portal within two weeks of the results being published."
+  },
+  {
+    "question": "What is the passing criteria for exams?",
+    "answer": "The passing criteria is usually a minimum of 40% in each subject and a 50% overall score."
+  },
+  {
+    "question": "Can I appear for exams without attending the full semester?",
+    "answer": "No, attendance is mandatory for most courses. You must attend at least 75% of the classes to be eligible for exams."
+  },
+  {
+    "question": "How do I get my exam admit card?",
+    "answer": "You can download your exam admit card from the student portal a week before the exams begin."
+  },
+  {
+    "question": "What is the procedure for supplementary exams?",
+    "answer": "If you fail an exam, you can apply for supplementary exams during the next exam cycle."
+  },
+  {
+    "question": "Are there any grace marks for passing?",
+    "answer": "Yes, in some cases, grace marks are given for students who are close to passing."
+  },
+  {
+    "question": "How can I check my exam results online?",
+    "answer": "You can check your exam results through the student portal under the 'Results' section."
+  },
+  {
+    "question": "Can I apply for a leave during exams?",
+    "answer": "Leave during exams is generally not allowed except for medical reasons. You will need to submit a doctor's certificate."
+  },
+  {
+    "question": "What should I do if I miss an exam?",
+    "answer": "If you miss an exam, you should immediately inform the exam coordinator. You may be allowed to take a make-up exam under special circumstances."
+  }
+]
